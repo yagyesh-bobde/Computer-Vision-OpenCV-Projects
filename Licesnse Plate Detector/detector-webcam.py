@@ -1,23 +1,22 @@
 from cv2 import cv2
 ########
 url='http://192.168.1.50:8080/video'
-cam = cv2.VideoCapture(1)
+cam = cv2.VideoCapture(url)
 nplate = cv2.CascadeClassifier('Resources/haarcascade_russian_plate_number.xml')
 ########
 
 ### --screen recording instead of webcam
-from vidgear.gears import ScreenGear
-
-# define dimensions of screen w.r.t to given monitor to be captured
-options = {'top': 0, 'left': 0, 'width': 10000, 'height': 10000}
-
-# open video stream with defined parameters
-stream = ScreenGear(monitor=1, logging=True, **options).start()
-
+# from vidgear.gears import ScreenGear
+#
+# # define dimensions of screen w.r.t to given monitor to be captured
+# options = {'top': 20, 'left': 0, 'width': 1000, 'height': 1000}
+#
+# # open video stream with defined parameters
+# stream = ScreenGear(monitor=1, logging=True, **options).start()
 ##
 count = 0
 while 1:
-    frame = stream.read()
+    res,frame = cam.read()
     frame = cv2.resize(frame,(600,600))
     imgGray = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
     nplates = nplate.detectMultiScale(imgGray,1.1,4)
