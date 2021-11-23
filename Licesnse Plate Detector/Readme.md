@@ -16,4 +16,4 @@ I also added a "saving" which allows you directly save the number plate that you
 
 Resources : 
 1. opencv official documentation
-2. [!youtube tutorial](https://www.youtube.com/watch?v=WQeoO7MI0Bs&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
+2. [Youtube tutorial on murtuza's workshop channel](https://www.youtube.com/watch?v=WQeoO7MI0Bs&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
