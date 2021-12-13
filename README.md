@@ -6,5 +6,5 @@ This is basically maintained list of all my mini projects on computer vision.
 |1.| Hand Tracker |**Complete** |
 |2.| Document Scanner | **Complete** |
 |3.| Number Plate Detector | **Complete** |
-|4.| Face Detection | **Complete** | 
+|4.| Face Detection | **Working on it** | 
 
