@@ -3,7 +3,7 @@ This is basically maintained list of all my mini projects on computer vision.
 
 | No.| **Project Name** | **Status** | **Link to Project** | **Tutorial** | 
 |--- | --- | ---- | ---- | ---- |
-|1.| Hand Tracker |**Complete** | | |
+|1.| Hand Tracker |**Complete** | https://github.com/yagyesh-bobde/Hand-Tracking | |
 |2.| Document Scanner | **Complete** | | |
 |3.| Number Plate Detector | **Complete** | | |
 |4.| Face Detection | **Complete** | | |
