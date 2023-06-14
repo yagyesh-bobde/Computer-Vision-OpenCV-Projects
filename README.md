@@ -18,7 +18,8 @@ This is basically maintained list of all my mini projects on computer vision.
 |13.| Object-Tracking Using Caffee | **Completed**| https://github.com/yagyesh-bobde/Object-Tracking-using-Caffee | | |
 |14.| Region-Propasal-using-OpenCV-Keras-and-Tensorflow | **Completed** | https://github.com/yagyesh-bobde/Region-Propasal-using-OpenCV-Keras-and-Tensorflow | | |
 |15.| Black-White-Image-Colourizer | **Completed** | https://github.com/yagyesh-bobde/Black-White-Image-Colourizer | | |
-
+|16.| Face-Blur-Filter-with-OpenCV-and-Mediapipe | **Completed** | https://github.com/yagyesh-bobde/Face-Blur-Filter-with-OpenCV-and-Mediapipe | | |
+|1.| Connected-Component-Labelling-using-OpenCV | **Completed** | https://github.com/yagyesh-bobde/Connected-Component-Labelling-using-OpenCV | | |
 
 # OpenCV Web Projects
 | No.| **Project Name** | **Status** | **Link to Project** | **Tutorial** | 
