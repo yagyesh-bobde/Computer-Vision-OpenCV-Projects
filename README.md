@@ -13,3 +13,9 @@ This is basically maintained list of all my mini projects on computer vision.
 |8.| Age Calculator | **Complete** | https://github.com/yagyesh-bobde/Face-Age-Calculator | |
 |9.| Object Detection using Caffee | **Complete** | https://github.com/yagyesh-bobde/Face-Age-Calculator | |
 |10.| Black & White Image Colourizer | **Currently working** | https://github.com/yagyesh-bobde/Black-White-Image-Colourizer | |
+
+
+# OpenCV Web Projects
+| No.| **Project Name** | **Status** | **Link to Project** | **Tutorial** | 
+|--- | --- | ---- | ---- | ---- |
+|1. | Vision Graphics | **Complete** | [----](https://github.com/yagyesh-bobde/Vision-Graphics) |  |
