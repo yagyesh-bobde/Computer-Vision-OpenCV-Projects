@@ -9,7 +9,7 @@ This is basically maintained list of all my mini projects on computer vision.
 |4.| Face Detection | **Completed** | | |
 |5.| Face Landmarks | **Completed** | https://github.com/yagyesh-bobde/Face-Landmarks | https://www.youtube.com/watch?v=LBeda3k2l40&t=6s |
 |6.| FaceDistanceMeasurement/Dynamic Text Reader | **Complete** | https://github.com/yagyesh-bobde/FaceDistanceMeasurement_DynamicTextReader | |
-|7.| Eye Blink Detector | **Completed** | https://github.com/yagyesh-bobde/Eye-Blink-Detector | |
+|7.| Eye Blink Detector | **Completed** | https://github.com/yagyesh-bobde/Eye-Blink-Detector | https://youtu.be/uuHhroKBHgA |
 |8.| Age Calculator | **Completed** | https://github.com/yagyesh-bobde/Face-Age-Calculator | |
 |9.| Object Detection using Caffee | **Complete** | https://github.com/yagyesh-bobde/Face-Age-Calculator | https://youtu.be/su5i1nvfNVg |
 |10.| Black & White Image Colourizer | **Completed** | https://github.com/yagyesh-bobde/Black-White-Image-Colourizer | |
