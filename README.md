@@ -18,4 +18,4 @@ This is basically maintained list of all my mini projects on computer vision.
 # OpenCV Web Projects
 | No.| **Project Name** | **Status** | **Link to Project** | **Tutorial** | 
 |--- | --- | ---- | ---- | ---- |
-|1. | Vision Graphics | **Complete** | [----](https://github.com/yagyesh-bobde/Vision-Graphics) |  |
+|1. | Vision Graphics | **Complete** | [https://github.com/yagyesh-bobde/Vision-Graphics](https://github.com/yagyesh-bobde/Vision-Graphics) |  |
